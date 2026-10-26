@@ -161,15 +161,6 @@ GitHub 项目按 Star 降序排列。
 
 - [MatrixMedia](https://github.com/hanliang97/MatrixMedia) `937` — 矩媒：Electron + CLI 的自媒体矩阵发布工具，把本地视频批量发到抖音、快手、小红书、视频号、头条等平台。
 
-## SEO / GEO / AEO
-
-- [linkinator](https://github.com/JustinBeckwith/linkinator) `1,258` — 爬站并校验死链 / 无效 URL，覆盖站点、文档和本地文件，常用于 SEO 审计与 CI。
-- [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) `861` — 开源 SEO + GEO Skills：接到真实 GSC / GA4 / 广告数据，经 MCP 让 Claude 在你自己的数据上做优化。
-- [seo](https://github.com/iannuttall/seo) `510` — Agent SEO Skill：70+ 审计工具，本地 CLI + MCP，用你自己的抓取、Search Console 与 GA4 数据。
-- [qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) `418` — 乔木 SEO：审计、诊断、研究、规划、落地、实验与验证，覆盖 Google / Bing 与 AI 搜索，含技术 SEO。
-- [awesome-geo](https://github.com/luka2chat/awesome-geo) `143` — GEO（生成式引擎优化）资源列表：面向 ChatGPT、Perplexity、Claude、Google AI Overviews 等 AI 搜索。
-- [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) `863` — AEO + SEO 研究、工具与落地指南精选，给工程师和增长看怎么同时做传统搜索与答案引擎。
-
 ## 产品与官网
 
 - [NarratoAI](https://www.narratoai.cn/) — NarratoAI 官网：面向创作者与内容团队的 AI 解说与短视频工作流，字幕识别、画面理解、解说稿、旁白、剪辑到导出。
