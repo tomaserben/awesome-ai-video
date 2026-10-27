@@ -1,6 +1,6 @@
 # awesome-ai-video
 
-AI 视频生产资源索引。收录短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API 与相关产品。
+AI 视频生产资源索引。收录短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、照片套爆款模板、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API 与相关产品。
 
 GitHub 项目按 Star 降序排列。
 
@@ -180,7 +180,10 @@ GitHub 项目按 Star 降序排列。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
 
-## 云厂商智能剪辑 / 高光拆条
+## 照片套爆款模板
+
+- [Ideoy](https://ideoy.ai) — 一张自拍套本周梗模板，MiniMax H3 生成 9:16 短片，按条付费，多条模板共用一个账户。
+- [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
 
 - [mediakit-cli](https://github.com/volcengine/mediakit-cli) `200` — 火山引擎 AI MediaKit 命令行：在终端调用智媒处理、高光分析等云能力，方便脚本和 Agent 接入。
 - [火山引擎 AI MediaKit 控制台](https://console.volcengine.com/imp/ai-mediakit) — 火山引擎 AI MediaKit 控制台：字节云上的智能媒体处理入口，配置工作流、高光智剪与媒资任务。
