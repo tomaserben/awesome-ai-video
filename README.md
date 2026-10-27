@@ -78,6 +78,7 @@ GitHub 项目按 Star 降序排列。
 - [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) `816` — 本地优先开源时间线：创作者和 AI Agent 编辑同一条真实时间线，而不是各玩各的草稿。
 - [velorn](https://github.com/VelornLabs/velorn) `500` — 开源桌面视频工作站：真实多轨时间线加 100+ MCP 工具，生成走本地 ComfyUI，剪辑、字幕和导出可离线交给 Agent。
 - [DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent) `460` — 达芬奇 MCP 自动粗剪 Skill：让 Agent 第一次就能在 DaVinci 里跑通自媒体向自动剪辑。
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) `328` — 本地优先的 TypeScript CLI 与 MCP：编程 Agent 从可编辑的 plan.json 时间线合成、剪辑并导出视频，MIT。
 - [ai-agent-video-editor](https://github.com/pifferologo/ai-agent-video-editor) `157` — 对话式剪辑 CLI：ElevenLabs Scribe 做词级转写，Agent 读打包稿写 EDL，再用 FFmpeg 渲染并自检切点。
 - [kinocut](https://github.com/KyaniteLabs/kinocut) `147` — 给 Agent 用的带护栏视频剪辑 MCP：FFmpeg、Hyperframes、再利用工具，以及 Python 客户端和 CLI，本地免费。
 - [video-editor-ai-agent](https://github.com/Don-Uwe/video-editor-ai-agent) `140` — 素材加创意简报的 Agent 剪辑流水线：导演、精剪、渲染和审片分角色跑，CLI 为主，附实验性时间线 Studio。
@@ -177,6 +178,7 @@ GitHub 项目按 Star 降序排列。
 - [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
+- [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
 
 ## 云厂商智能剪辑 / 高光拆条
 
