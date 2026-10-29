@@ -197,7 +197,3 @@ GitHub 项目按 Star 降序排列。
 - [阿里云 高燃混剪参数](https://help.aliyun.com/zh/ims/use-cases/create-highlight-videos) — 阿里云高燃混剪参数说明：SmoothHighlight 等策略，以及 InputConfig / EditingConfig 的配置与示例。
 - [阿里云 SubmitScreenMediaHighlightsJob](https://www.alibabacloud.com/help/zh/ims/developer-reference/api-ice-2020-11-09-submitscreenmediahighlightsjob) — SubmitScreenMediaHighlightsJob：提交高燃混剪异步任务，输入短剧等素材，自动识别高光并回调任务 ID。
 - [百度智能云 VOD](https://cloud.baidu.com/doc/VOD/s/1m5lxhdlf) — 百度智能云 VOD：采集上传、存储、智能处理、审核、分发到播放的一站式点播，可挂工作流做媒资处理。
-
-## 其他
-
-- [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) `4,060` — 无需越狱的独立 iOS 定位伪装 App，并提供 Shadowrocket / Surge / Loon / Quantumult X / Stash 模块。
